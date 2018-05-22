@@ -1,0 +1,7 @@
+E:\project\LINQ-TASK\LINQ-TASK\bin\Debug\LINQ-TASK.exe.config
+E:\project\LINQ-TASK\LINQ-TASK\bin\Debug\LINQ-TASK.exe
+E:\project\LINQ-TASK\LINQ-TASK\bin\Debug\LINQ-TASK.pdb
+E:\project\LINQ-TASK\LINQ-TASK\obj\Debug\LINQ-TASK.csprojResolveAssemblyReference.cache
+E:\project\LINQ-TASK\LINQ-TASK\obj\Debug\LINQ-TASK.csproj.CoreCompileInputs.cache
+E:\project\LINQ-TASK\LINQ-TASK\obj\Debug\LINQ-TASK.exe
+E:\project\LINQ-TASK\LINQ-TASK\obj\Debug\LINQ-TASK.pdb
